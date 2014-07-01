@@ -20,7 +20,6 @@ import org.apache.commons.lang3.ArrayUtils;
  * 
  */
 public class FoxAndVacation {
-	
 	private static final int MIN_DAY = 1;
 	private static final int MAX_DAY = 50;
 	private static final int MIN_TOTAL_DAYS = 1;

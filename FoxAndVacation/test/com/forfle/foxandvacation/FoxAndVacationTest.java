@@ -14,7 +14,6 @@ import com.forfle.foxandvacation.FoxAndVacation;
  * 
  */
 public class FoxAndVacationTest {
-	
 	FoxAndVacation foxAndVacation;
 
 	@Before
